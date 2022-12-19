@@ -1,1 +1,6 @@
-
+<!DOCTYPEhtml>
+<html>
+<body>
+<img src= "hawaii.jpeg" alt="hawaii" />
+</body>
+</html>
