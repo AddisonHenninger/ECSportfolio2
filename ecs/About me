@@ -5,8 +5,9 @@
   <body>
     <h1>Personal Skill List</h1>
     <ul>
-    <li> Typing test results </li>
-    
+    <li> Typing cerificate </li>
+    <img src= "typing test.pdf" />
+    <li>
 
  </body>
 </html>
